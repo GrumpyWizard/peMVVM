@@ -1,0 +1,11 @@
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Application\bin\Debug\peMVVM.Application.exe.config
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Application\obj\Debug\peMVVM.Application.csprojResolveAssemblyReference.cache
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Application\obj\Debug\MainWindow.baml
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Application\obj\Debug\Views\peView.baml
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Application\obj\Debug\MainWindow.g.cs
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Application\obj\Debug\Views\peView.g.cs
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Application\obj\Debug\App.g.cs
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Application\obj\Debug\peMVVM.Application_MarkupCompile.cache
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Application\obj\Debug\peMVVM.Application.g.resources
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Application\obj\Debug\peMVVM.Application.Properties.Resources.resources
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Application\obj\Debug\peMVVM.Application.csproj.GenerateResource.Cache

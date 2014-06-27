@@ -1,0 +1,4 @@
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Problems\bin\Debug\peMVVM.Problems.dll
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Problems\bin\Debug\peMVVM.Problems.pdb
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Problems\obj\Debug\peMVVM.Problems.dll
+C:\Users\b.lensen\Documents\GitHub\peMVVM\peMVVM.Application\peMVVM.Problems\obj\Debug\peMVVM.Problems.pdb
